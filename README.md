@@ -7,11 +7,13 @@ This project shows the diagrams of [UML specification 2.5.1](https://www.omg.org
 
 Required to open the model file (uml_specification_2.5.1.asta)
 ---
-Astah Professional/UML/Viewer **ver.9.2** or higher.
+* [Astah](https://astah.net/download) Professional/UML/Viewer **ver.9.2** or higher.
 
 Required to generate Diagram Maps
 ---
-If you are generating Diagram Maps for all the specification diagrams, refer to [this page](https://astah.net/support/astah-pro/faqs/#block_fc09dca154add341fd7e2c827d040f4d-5) to increase Astah's memory usage (e.g., -Xmx2048m) because the generation process may fail due to insufficient memory.
+* [Astah](https://astah.net/download) Professional/UML **ver.9.2** or higher.
+* [M PLUS](https://sites.google.com/view/m-plus-plugin/download) plug-in.  
+  *NOTE:* If you are generating Diagram Maps for all the specification diagrams, refer to [this page](https://astah.net/support/astah-pro/faqs/#block_fc09dca154add341fd7e2c827d040f4d-5) to increase Astah's memory usage (e.g., -Xmx2048m) because the generation process may fail due to insufficient memory.
 
 Reference
 ---
