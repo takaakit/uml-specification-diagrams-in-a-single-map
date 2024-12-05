@@ -12,7 +12,7 @@ Required to open the model file (uml_specification_2.5.1.asta)
 Required to generate Diagram Maps
 ---
 * [Astah](https://astah.net/download) Professional/UML **ver.10.0** or higher.
-* [M PLUS](https://sites.google.com/view/m-plus-plugin/download) plug-in.  
+* [m plus](https://sites.google.com/view/m-plus-plugin/download) plug-in.  
   *NOTE:* If you are generating Diagram Maps for all the specification diagrams, refer to [this page](https://astah.net/support/astah-pro/faqs/#block_fc09dca154add341fd7e2c827d040f4d-5) to increase Astah's memory usage (e.g., -Xmx2048m) because the generation process may fail due to insufficient memory.
 
 Reference
@@ -21,7 +21,7 @@ Reference
 
 Link
 ---
-* [Diagram Map: tracing UML/SysML elements across diagrams](https://dev.to/takaakit/diagram-map-tracing-uml-sysml-elements-across-diagrams-49i7)
+* [Diagram Map: tracing UML elements across diagrams](https://dev.to/takaakit/diagram-map-tracing-uml-sysml-elements-across-diagrams-49i7)
 
 License
 ---
