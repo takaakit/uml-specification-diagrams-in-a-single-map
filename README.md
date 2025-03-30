@@ -13,7 +13,6 @@ Required to generate Diagram Maps
 ---
 * [Astah](https://astah.net/download) Professional/UML **ver.10.0** or higher.
 * [m plus](https://sites.google.com/view/m-plus-plugin/download) plug-in.  
-  *NOTE:* If you are generating Diagram Maps for all the specification diagrams, refer to [this page](https://astah.net/support/astah-pro/faqs/#block_fc09dca154add341fd7e2c827d040f4d-5) to increase Astah's memory usage (e.g., -Xmx2048m) because the generation process may fail due to insufficient memory.
 
 Reference
 ---
@@ -30,5 +29,7 @@ Diagram Map file (diagram_map.html) includes the following libraries:
 * [Popper.js](https://popper.js.org) is copyrighted by Federico Zivolo and is released under the [MIT license](https://opensource.org/licenses/MIT).
 * [Tippy.js](https://atomiks.github.io/tippyjs) is copyrighted by atomiks and is released under the [MIT license](https://opensource.org/licenses/MIT).
 * [Chroma.js](https://gka.github.io/chroma.js) is copyrighted by Gregor Aisch and is released under the [BSD license](https://opensource.org/licenses/BSD-3-Clause).
+* [Three.js](https://threejs.org) is copyrighted by three.js authors and is released under the [MIT license](https://opensource.org/licenses/MIT).
+* [Vanta.js](https://www.vantajs.com) is copyrighted by Teng Bao and is released under the [MIT license](https://opensource.org/licenses/MIT).
 
 Files and data in this project other than the above libraries are under the [Creative Commons Zero (CC0) license](https://creativecommons.org/publicdomain/zero/1.0/).
