@@ -3,7 +3,7 @@ UML specification diagrams in a single map
 
 This project shows the diagrams of [UML specification 2.5.1](https://www.omg.org/spec/UML/2.5.1/PDF/) in a single map. Click on the image below to open the map in *Diagram Map* (takes a few seconds to open). If you want to know about *Diagram Map*, see [this post](https://dev.to/takaakit/diagram-map-tracing-uml-sysml-elements-across-diagrams-49i7).
 
-<a href="https://takaakit.github.io/uml-specification-diagrams-in-a-single-map/diagram_map.html?theme=monochrome"><img src="diagram_map.jpg"></a>
+<a href="https://takaakit.github.io/uml-specification-diagrams-in-a-single-map/diagram_map.html"><img src="diagram_map.jpg"></a>
 
 Required to open the model file (uml_specification_2.5.1.asta)
 ---
